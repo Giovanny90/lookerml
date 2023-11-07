@@ -1,4 +1,4 @@
-project_name: "demosaludfamiliarml"
+project_name: "demosaludfamiliar"
 
 localization_settings: {
   default_locale: en
